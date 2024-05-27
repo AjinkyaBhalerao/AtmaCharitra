@@ -1,6 +1,17 @@
-// Add interactivity here 
 document.addEventListener('DOMContentLoaded', function() {
-    // Example: Add hover effect to project cards
+    // Smooth scrolling for navigation links
+    const navLinks = document.querySelectorAll('nav ul li a');
+    navLinks.forEach(link => {
+        link.addEventListener('click', (e) => {
+            e.preventDefault();
+            const targetId = link.getAttribute('href').substring(1);
+            document.getElementById(targetId).scrollIntoView({
+                behavior: 'smooth'
+            });
+        });
+    });
+
+    // Hover effect on project cards
     const projectCards = document.querySelectorAll('.project-card');
     projectCards.forEach(card => {
         card.addEventListener('mouseover', () => {
