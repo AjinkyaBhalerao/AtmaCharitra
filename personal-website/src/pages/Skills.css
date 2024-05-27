@@ -1,0 +1,27 @@
+.skills {
+    padding: 50px;
+  }
+  
+  .skills-list {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .skill-item {
+    margin-bottom: 20px;
+  }
+  
+  .skill-item p {
+    margin-bottom: 5px;
+  }
+  
+  .skill-bar {
+    width: 100%;
+    background-color: #f0f0f0;
+  }
+  
+  .skill-level {
+    height: 20px;
+    background-color: #36A2EB;
+  }
+  
