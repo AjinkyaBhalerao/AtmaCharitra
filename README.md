@@ -1,4 +1,4 @@
-# Ajinkya Bhalerao's Data Science Portfolio
+# Portfolio
 
 Welcome to my personal website, an interactive and visually appealing showcase of my skills, projects, and professional journey in the field of Data Science. This repository contains the source code for my portfolio website built with React.js.
 
@@ -16,7 +16,7 @@ Welcome to my personal website, an interactive and visually appealing showcase o
 
 ## Introduction
 
-Hello! I am Ajinkya Bhalerao, a Data Scientist passionate about solving complex problems using data-driven solutions. This website serves as a comprehensive portfolio to highlight my academic background, work experience, projects, skills, and achievements.
+Hello! I am Ajinkya Bhalerao, an aspiring Data Scientist passionate about solving complex problems using data-driven solutions. This website serves as a comprehensive portfolio to highlight my academic background, work experience, projects, skills, and achievements.
 
 ## Features
 
