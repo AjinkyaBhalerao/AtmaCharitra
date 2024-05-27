@@ -1,0 +1,40 @@
+.contact {
+    padding: 50px;
+  }
+  
+  form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  label {
+    margin-bottom: 5px;
+  }
+  
+  input, textarea {
+    margin-bottom: 15px;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+  }
+  
+  button {
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    background-color: #36A2EB;
+    color: white;
+    cursor: pointer;
+  }
+  
+  .social-links a {
+    display: block;
+    margin-bottom: 10px;
+    color: #36A2EB;
+    text-decoration: none;
+  }
+  
+  .social-links p {
+    margin-top: 10px;
+  }
+  
