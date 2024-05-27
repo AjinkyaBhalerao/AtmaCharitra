@@ -23,13 +23,31 @@ header p {
     margin: 0;
 }
 
+nav ul {
+    list-style: none;
+    padding: 0;
+    text-align: center;
+    background: #333;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 10px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 1.2em;
+}
+
 .container {
     width: 80%;
     margin: auto;
     overflow: hidden;
 }
 
-#projects, #about, #contact {
+#home, #projects, #about, #awards, #contact {
     padding: 20px 0;
     text-align: center;
 }
@@ -40,6 +58,11 @@ header p {
     padding: 20px;
     border: 1px solid #ddd;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    transition: box-shadow 0.3s ease;
+}
+
+.project-card:hover {
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
 }
 
 .profile-img {
