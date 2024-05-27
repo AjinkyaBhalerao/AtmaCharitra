@@ -7,11 +7,6 @@ Welcome to my personal website, an interactive and visually appealing showcase o
 - [Introduction](#introduction)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## Introduction
@@ -33,3 +28,10 @@ Hello! I am Ajinkya Bhalerao, an aspiring Data Scientist passionate about solvin
 - **Animations:** CSS Animations
 - **Charts:** Chart.js (for skills representation)
 - **Deployment:** Netlify
+
+## Contact
+
+Feel free to reach out to me via the following platforms:
+
+- **LinkedIn:** [Ajinkya Bhalerao](https://www.linkedin.com/in/ajinkya-bhalerao-71224b141/)
+- **Email:** [ajinkya.bhalerao@centrale-med.fr](mailto:ajinkya.bhalerao@centrale-med.fr)
