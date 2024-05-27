@@ -2,8 +2,6 @@
 
 Welcome to my personal website, an interactive and visually appealing showcase of my skills, projects, and professional journey in the field of Data Science. This repository contains the source code for my portfolio website built with React.js.
 
-![Website Screenshot](path/to/screenshot.png)
-
 ## Table of Contents
 
 - [Introduction](#introduction)
@@ -42,5 +40,5 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/personal-website.git
+   git clone https://github.com/AjinkyaBhalerao/AtmaCharitra/personal-website.git
    cd personal-website
