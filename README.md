@@ -33,5 +33,5 @@ Hello! I am Ajinkya Bhalerao, an aspiring Data Scientist passionate about solvin
 
 Feel free to reach out to me via the following platforms:
 
-- **[![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/)** [Ajinkya Bhalerao](https://www.linkedin.com/in/ajinkya-bhalerao-71224b141/)
+- **Linkedin** [Ajinkya Bhalerao](https://www.linkedin.com/in/ajinkya-bhalerao-71224b141/)
 - **Email:** [ajinkya.bhalerao@centrale-med.fr](mailto:ajinkya.bhalerao@centrale-med.fr)
